@@ -1,2 +1,2 @@
 # hyperblog
-un blog del curso de giy y github
+un blog del curso de git y github
